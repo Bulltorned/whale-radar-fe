@@ -56,22 +56,23 @@
   justify-content: center;
   gap: 20px;
   line-height: 80px;
-  color: white;
+  color: #FC2173;
   font-size: 20px;
   font-weight: 500;
-  background-color: #FC2173;
+  background-color: #D9DBD8 ;
 }
 
 .oneCollection:hover {
   cursor: pointer;
-  background-color: rgb(45, 45, 47);
+  background-color: #C0C0C0;
 }
 
 .frontLogo {
-  height: 70px;
-  padding-top: 10px;
-  border-radius: 50%;
-  background-color: #FC2173;
+  height: 60px;
+  margin-top: 10px; 
+  border-radius: 10%;
+  background-color: #D9DBD8;
+  color: #D9DBD8;
 }
 
 .start {
