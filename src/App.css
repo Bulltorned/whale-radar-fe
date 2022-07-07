@@ -20,6 +20,7 @@
   font-size: 25px;
   display: flex;
   justify-content: space-between;
+  background-color: #FC2173;
 }
 
 .menu {
@@ -27,10 +28,12 @@
   display: flex;
   gap: 20px;
   font-weight: 500;
+  background-color: #FC2173;
 }
 
 .menuItem {
   color: #D9DBD8;
+  background-color: #FC2173;
 }
 
 .collections {
@@ -39,6 +42,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
+  background-color: #FC2173;
 }
 
 .oneCollection {
@@ -55,6 +59,7 @@
   color: white;
   font-size: 20px;
   font-weight: 500;
+  background-color: #FC2173;
 }
 
 .oneCollection:hover {
@@ -66,6 +71,7 @@
   height: 70px;
   padding-top: 10px;
   border-radius: 50%;
+  background-color: #FC2173;
 }
 
 .start {
@@ -75,6 +81,7 @@
   display: flex;
   justify-content: center;
   padding: 30px;
+  background-color: #FC2173;
 }
 
 .stats {
@@ -87,20 +94,24 @@
   margin-top: 50px;
   margin-bottom: 30px;
   font-weight: 500;
+  background-color: #FC2173;
 }
 
 .colStats {
   display: flex;
   gap: 50px;
+  background-color: #FC2173;
 }
 .colLinks {
   display: flex;
   padding-top: 20px;
   gap: 20px;
+  background-color: #FC2173;
 }
 
 .link {
   height: 20px;
+  background-color: #FC2173;
 }
 
 .stat {
@@ -127,9 +138,11 @@
   padding: auto;
   line-height: 70px;
   height: 70px;
+  background-color: #FC2173;
 }
 
 .userTitle {
+  background-color: #FC2173;
   color: white;
   width: 100%;
   display: flex;
@@ -144,6 +157,7 @@
   padding: auto;
   line-height: 70px;
   height: 70px;
+  
 }
 
 .wallet {
@@ -156,13 +170,13 @@
   font-size: 15px;
   align-items: center;
   margin-top: 32px;
+  background-color: #FC2173;
 }
 
 .imgList {
   color: white;
   font-weight: bold;
   font-size: 25px;
-  background-color: rgb(31, 33, 35);
   border: 5px solid rgba(0, 0, 0, 0.428);
   border-radius: 10px;
   margin-bottom: 40px;
@@ -170,34 +184,40 @@
   margin-left: 15vw;
   margin-top: 30px;
   padding: 20px;
+  background-color: #FC2173;
 }
 
 .userCollection {
   display: flex;
   justify-content: space-between;
+  background-color: #FC2173;
 }
 
 .theImgs{
   display: flex;
   justify-content: start;
   flex-wrap: wrap;
+  background-color: #FC2173;
 }
 
 .colNfts{
   height: 50px;
   border-radius: 8px;
   margin: 10px;
+  background-color: #FC2173;
 }
 
 .logoImg {
   height: 70px;
   border-radius: 50%;
   margin-right: 20px;
+  background-color: #FC2173;
 }
 
 .smallNft {
   height: 40px;
   border-radius: 50%;
+  background-color: #FC2173;
 }
 
 .ant-table {
@@ -206,10 +226,11 @@
   color: white;
   font-size: 13px;
   font-weight: 900;
+  background-color: #FC2173;
 }
 
 .ant-table-thead > tr > th {
-  background: rgb(27, 28, 28) !important;
+  background: #FC2173 !important;
   color: white !important;
   font-weight: bold !important;
   font-size: 14px !important;
@@ -217,7 +238,7 @@
 
 .ant-table-tbody > tr.ant-table-row:hover > td,
 .ant-table-tbody > tr > td.ant-table-cell-row-hover {
-  background: rgb(35, 33, 33);
+  background: #FC2173;
 }
 
 .ant-table-thead > tr > th,
@@ -225,6 +246,7 @@
 .ant-table tfoot > tr > th,
 .ant-table tfoot > tr > td {
   padding: 12px 16px;
+  background-color: #FC2173;
 }
 
 .ant-table-thead th.ant-table-column-has-sorters:hover {
