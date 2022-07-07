@@ -139,7 +139,7 @@ function Collection() {
   
 
   return (
-    <div className="">
+    <div className="bgMain">
       {collectionData && (
         <div className="title">
           <img src={collectionData.img} alt="colLogo" className="logoImg" />
