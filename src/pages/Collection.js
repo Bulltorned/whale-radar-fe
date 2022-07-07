@@ -139,7 +139,7 @@ function Collection() {
   
 
   return (
-    <>
+    <div className="">
       {collectionData && (
         <div className="title">
           <img src={collectionData.img} alt="colLogo" className="logoImg" />
@@ -148,16 +148,16 @@ function Collection() {
       )}
       <div className="stats">
         <div className="colStats">
-          <div>
+          <div className="stat2">
             <div className="stat">{longHold}</div>
             Longest Avg Hold
           </div>
-          <div>
+          <div className="stat2">
             <div className="stat">{largest}</div>
             Largest Bag
           </div>
 
-          <div>
+          <div className="stat2">
             <div className="stat">
               <Icon fill="#ffffff" svg="eth" />
               {highBuy}
@@ -175,7 +175,7 @@ function Collection() {
           <Table columns={columns} dataSource={data} />
         </div>
       </div>
-    </>
+    </div>
   );
 }
 
