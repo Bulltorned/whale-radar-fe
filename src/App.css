@@ -5,7 +5,7 @@
   display: flex;
   justify-content: center;
   gap: 10px;
-  background-color: #FC2173;
+  background-color: #D9DBD8;
 }
 
 .topBanner {
@@ -121,16 +121,16 @@
 }
 
 .stat {
-  color: #D9DBD8;
+  color: #FC2173;
   font-weight: bold;
   font-size: 23px;
   display: flex;
   gap: 5px;
-  background-color: #FC2173;
+  background-color: #D9DBD8;
 }
 
 .title {
-  color: white;
+  color: #FC2173;
   width: 100%;
   display: flex;
   width: 80vw;
@@ -144,7 +144,7 @@
   padding: auto;
   line-height: 70px;
   height: 70px;
-  background-color: #FC2173;
+  background-color: #D9DBD8;
 }
 
 .userTitle {
